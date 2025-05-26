@@ -141,7 +141,7 @@ Wait a few minutes for services to initialize.
 ### 5. Demo and screenshots
 
 * Youtube video link of the demo of code and working application : https://youtu.be/37IsrfeVag8
-* All the scrrenshots of the working demo are placed in the screnshots folder
+* All the screenshots of the working demo are placed in the screenshots folder
 
 ---
 
