@@ -70,7 +70,7 @@ User ↔️ Frontend (React)
           ↓
    RabbitMQ Queues (4 queues)
   ↙️        ↓           ↘️
-LLM    Validation        Save    DLQ
+LLM Q   Validation Q     Save Q   DLQ
                            ↓         
                         MongoDB, Redis (status)     
 ```
@@ -137,6 +137,15 @@ Wait a few minutes for services to initialize.
 * Backend APIs: [http://localhost:3000](http://localhost:3000)
 
 ---
+
+### 5. Demo and screenshots
+
+* Youtube video link of the demo of code and working application : https://youtu.be/37IsrfeVag8
+* All the scrrenshots of the working demo are placed in the screnshots folder
+
+---
+
+
 
 ## 📁 Folder Structure
 
