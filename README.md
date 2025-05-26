@@ -126,7 +126,7 @@ GEMINI_API_KEY=your_google_gemini_api_key_here
 ### 4. Start the Application
 
 ```bash
-docker-compose up --build
+docker compose up --build
 ```
 
 Wait a few minutes for services to initialize.
